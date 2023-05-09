@@ -14,10 +14,10 @@ The code works in MATLAB 2023a. And the following Toolboxes of MATLAB are requir
 ## Files
 Each code is as follows.
 
-- find_classic.m : Finding CP decomposition of $2\times 2$ matrix multiplication with using $8$ rank 1 tensors
-- find_strassen.m : Finding CP decomposition of $2\times 2$ matrix multiplication with using $7$ rank 1 tensors which same as the Strassen's algorithm
-- find_3_3.m : Finding CP decomposition of determinant of $3\times 3$ matrices which is same to Derksen's $3\times 3$ deteriminant formula
-- find_4_4.m : Finding new formula of determinant of $4\times 4$ matrices
+- find_classic.m : Find CP decomposition of $2\times 2$ matrix multiplication with using $8$ rank 1 tensors
+- find_strassen.m : Find CP decomposition of $2\times 2$ matrix multiplication with using $7$ rank 1 tensors which same as the Strassen's algorithm
+- find_3_3.m : Find CP decomposition of determinant of $3\times 3$ matrices which is same to Derksen's $3\times 3$ deteriminant formula
+- find_4_4.m : Find new formula of determinant of $4\times 4$ matrices
 - det4.m : MATLAB function for computing determinant by using New formula
 
 ## Hardware
